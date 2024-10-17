@@ -42,6 +42,3 @@ class TestTestCase1:
         self.driver.find_element(By.ID, "txt-password").click()
         self.driver.find_element(By.ID, "txt-password").send_keys("ThisIsNotAPassword")
         self.driver.find_element(By.ID, "btn-login").click()
-        time.sleep(30)
-        self.driver.find_element(By.ID, "menu-toggle").click()
-        self.driver.find_element(By.LINK_TEXT, "Logout").click()
