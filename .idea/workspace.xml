@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="Exercises and Tasks of OCT 15, 2024 are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab006_parallel_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks_15102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks_17102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks_17102024/awesome_qa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks_17102024/test_katalon_cura.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_1_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_1_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_tsk2_by_selenium_ide.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_tsk2_by_selenium_ide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_1_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks_15102024/test_1_task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_tsk2_by_selenium_ide.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks_15102024/test_tsk2_by_selenium_ide.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TestingMaestro/Py4xLearningSelenium.git",
-    "accountId": "720a09b4-5399-4c29-9396-dba23bb32701"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TestingMaestro&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TestingMaestro/Py4xLearningSelenium.git&quot;,
+    &quot;accountId&quot;: &quot;720a09b4-5399-4c29-9396-dba23bb32701&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,20 +59,44 @@
   "keyToString": {
     "Python tests.Python tests for tes_Lab02.test_app_vwo_login.executor": "Run",
     "Python tests.Python tests for test_1_task1.test_katalon_cura_demo_project_loginpage.executor": "Run",
+    "Python tests.Python tests for test_Lab004.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for test_Lab005.test_current_url_verification_edge.executor": "Run",
     "Python tests.Python tests for test_Lab01.TestChromeBrowser.test_launch_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab01.test_launch_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab02.test_app_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.test_testCase1.executor": "Run",
     "Python tests.Python tests in test_1_task1.py.executor": "Run",
+    "Python tests.Python tests in test_Lab003.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_Lab005.py.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
+    "Python tests.Python tests in test_katalon_cura.py.executor": "Run",
     "Python.task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "terminal"
+    "last_opened_file_path": "C:/Users/91914/PycharmProjects/Py4xLearningSelenium/src/ex_2_17102024",
+    "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab02.test_app_vwo_login">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Py4xLearningSelenium" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Py4xLearningSelenium" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_2_17102024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome">
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -75,88 +112,88 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_1_15102024.tasks_15102024.test_tsk2_by_selenium_ide.TestTestCase1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab005.test_current_url_verification_edge" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_1_15102024.tasks_15102024.test_tsk2_by_selenium_ide.TestTestCase1&quot;" />
+      <option name="_new_target" value="&quot;test_Lab005.test_current_url_verification_edge&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_1_15102024.tasks_15102024.test_tsk2_by_selenium_ide.TestTestCase1.test_testCase1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tasks_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_1_15102024.tasks_15102024.test_tsk2_by_selenium_ide.TestTestCase1.test_testCase1&quot;" />
+      <option name="_new_target" value="&quot;test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_1_15102024.test_Lab02.test_app_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab004.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_1_15102024.test_Lab02.test_app_vwo_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_2_17102024/test_Lab004.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_1_task1.test_katalon_cura_demo_project_loginpage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab005.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_1_task1.test_katalon_cura_demo_project_loginpage&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_2_17102024/test_Lab005.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab02.test_app_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_katalon_cura.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tasks_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab02.test_app_vwo_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/tasks_17102024/test_katalon_cura.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab02.test_app_vwo_login" />
-        <item itemvalue="Python tests.Python tests for src.ex_1_15102024.test_Lab02.test_app_vwo_login" />
-        <item itemvalue="Python tests.Python tests for src.ex_1_15102024.tasks_15102024.test_tsk2_by_selenium_ide.TestTestCase1.test_testCase1" />
-        <item itemvalue="Python tests.Python tests for src.ex_1_15102024.tasks_15102024.test_tsk2_by_selenium_ide.TestTestCase1" />
-        <item itemvalue="Python tests.Python tests for test_1_task1.test_katalon_cura_demo_project_loginpage" />
+        <item itemvalue="Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome" />
+        <item itemvalue="Python tests.Python tests in test_katalon_cura.py" />
+        <item itemvalue="Python tests.Python tests in test_Lab005.py" />
+        <item itemvalue="Python tests.Python tests for test_Lab005.test_current_url_verification_edge" />
+        <item itemvalue="Python tests.Python tests in test_Lab004.py" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +213,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729040639472</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercises and Tasks of OCT 15, 2024 are added">
+      <option name="closed" value="true" />
+      <created>1729127708397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729127708397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercises and Tasks of OCT 15, 2024 are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises and Tasks of OCT 15, 2024 are added" />
   </component>
 </project>
