@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="Exercises and Tasks of OCT 15, 2024 are added">
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab006_parallel_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks_17102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks_17102024/awesome_qa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks_17102024/test_katalon_cura.py" afterDir="false" />
+    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="Exercises and Tasks of OCT 17, 2024 are added with few practices">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_1_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks_15102024/test_1_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/tasks_15102024/test_tsk2_by_selenium_ide.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks_15102024/test_tsk2_by_selenium_ide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks_17102024/awesome_qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks_17102024/awesome_qa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +53,7 @@
     "Python tests.Python tests for test_Lab01.TestChromeBrowser.test_launch_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab01.test_launch_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab02.test_app_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_facebook_login.test_fb_login.executor": "Run",
     "Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.test_testCase1.executor": "Run",
@@ -72,6 +62,7 @@
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
+    "Python tests.Python tests in test_facebook_login.py.executor": "Run",
     "Python tests.Python tests in test_katalon_cura.py.executor": "Run",
     "Python.task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -96,7 +87,7 @@
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome">
+  <component name="RunManager" selected="Python tests.Python tests for test_facebook_login.test_fb_login">
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -112,18 +103,18 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab005.test_current_url_verification_edge" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_facebook_login.test_fb_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/selenium_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab005.test_current_url_verification_edge&quot;" />
+      <option name="_new_target" value="&quot;test_facebook_login.test_fb_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -142,21 +133,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab004.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4xLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_2_17102024/test_Lab004.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in test_Lab005.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -169,6 +145,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_2_17102024/test_Lab005.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_facebook_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/selenium_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/selenium_practice/test_facebook_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -189,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_facebook_login.test_fb_login" />
+        <item itemvalue="Python tests.Python tests in test_facebook_login.py" />
         <item itemvalue="Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome" />
         <item itemvalue="Python tests.Python tests in test_katalon_cura.py" />
         <item itemvalue="Python tests.Python tests in test_Lab005.py" />
-        <item itemvalue="Python tests.Python tests for test_Lab005.test_current_url_verification_edge" />
-        <item itemvalue="Python tests.Python tests in test_Lab004.py" />
       </list>
     </recent_temporary>
   </component>
@@ -221,11 +212,29 @@
       <option name="project" value="LOCAL" />
       <updated>1729127708397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercises and Tasks of OCT 17, 2024 are added">
+      <option name="closed" value="true" />
+      <created>1729264289451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729264289451</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercises and Tasks of OCT 17, 2024 are added with few practices">
+      <option name="closed" value="true" />
+      <created>1729296546227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729296546227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercises and Tasks of OCT 15, 2024 are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises and Tasks of OCT 15, 2024 are added" />
+    <MESSAGE value="Exercises and Tasks of OCT 17, 2024 are added" />
+    <MESSAGE value="Exercises and Tasks of OCT 17, 2024 are added with few practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises and Tasks of OCT 17, 2024 are added with few practices" />
   </component>
 </project>
