@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 
 
 def test_fb_login():
+
     driver = webdriver.Chrome()
     driver.get("https://www.facebook.com/")
     user_email = driver.find_element(By.NAME, value="email")

@@ -4,7 +4,7 @@ import allure
 
 
 @allure.title("Verify that user is able to get the current URL and Title of webpage")
-@allure.description("vveifying the title and current url are retrieved properly or not")
+@allure.description("vveifying the title  and current url are retrieved properly or not")
 def test_katalon_cura_demo_project_loginpage():
     driver = webdriver.Chrome()
     driver.get("https://katalon-demo-cura.herokuapp.com")

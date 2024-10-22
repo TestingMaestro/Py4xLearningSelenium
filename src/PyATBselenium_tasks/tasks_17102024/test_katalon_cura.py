@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 
 @allure.title("Katalon-cura-demo project login test")
-@allure.description("Verifying username/password and Login button functionality")
+@allure.description("Verifying username/password and Login button functionality ")
 def test_Katalon_cura_demo_login_tc_chrome(browser_options):
     driver = webdriver.Chrome(browser_options)
     driver.get("https://katalon-demo-cura.herokuapp.com/")

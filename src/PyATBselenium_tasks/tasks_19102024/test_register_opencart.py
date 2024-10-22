@@ -10,7 +10,7 @@ import os
 
 @allure.title("Verify the registration page")
 @allure.description(
-    "Complete all the required fields, ensure the user is successfully registered, and verify that the 'Your Account "
+    "Complete all the required fields , ensure the user is successfully registered, and verify that the 'Your Account "
     "has been Created!' message is displayed")
 def test_registration_page(browser_options):
     load_dotenv()

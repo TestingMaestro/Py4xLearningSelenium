@@ -18,7 +18,7 @@ class TestTestCase1:
 
     def teardown_method(self, method):
         self.driver.quit()
-
+#
     def test_testCase1(self):
         self.driver.get("https://katalon-demo-cura.herokuapp.com/")
         self.driver.set_window_size(1936, 1048)
