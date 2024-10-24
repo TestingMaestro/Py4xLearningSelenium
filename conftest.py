@@ -3,7 +3,7 @@ import pytest
 from selenium import webdriver
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture
 def browser_options():
     options = Options()
     # options.add_argument("--headless")
