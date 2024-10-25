@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="all files updated">
-      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/test_task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/test_task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_21102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_21102024/test_Lab012_int.py" afterDir="false" />
+    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="few exercises of 22 aug with tasks">
+      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab013_imp_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab014_expl_fluent_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab014_expl_wait.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/test_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/test_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_21102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4_21102024/test_Lab012_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab012_int.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
     "Python tests.Python tests for test_1_task1.test_katalon_cura_demo_project_loginpage.executor": "Run",
     "Python tests.Python tests for test_Lab004.test_chrome_options.executor": "Run",
     "Python tests.Python tests for test_Lab005.test_current_url_verification_edge.executor": "Run",
+    "Python tests.Python tests for test_Lab009.test_vwo_error_check.executor": "Run",
     "Python tests.Python tests for test_Lab01.TestChromeBrowser.test_launch_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab01.test_launch_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab010.test_vwo_error_check.executor": "Run",
@@ -78,7 +81,7 @@
     "Python.task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/91914/PycharmProjects/Py4xLearningSelenium/src/PyATBselenium_tasks/task_21102024",
+    "last_opened_file_path": "C:/Users/91914/PycharmProjects/Py4xLearningSelenium/src/ex_4_22102024",
     "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
   }
 }]]></component>
@@ -92,6 +95,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_4_22102024" />
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\PyATBselenium_tasks\task_21102024" />
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_3_19102024" />
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_2_17102024" />
@@ -101,7 +105,7 @@
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab012_int.test_ebay_come">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab009.test_vwo_error_check">
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -117,7 +121,22 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab010.test_vwo_error_check" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_4_22102024.test_Lab012_int.test_ebay_come" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_4_22102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_4_22102024.test_Lab012_int.test_ebay_come&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab009.test_vwo_error_check" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab010.test_vwo_error_check&quot;" />
+      <option name="_new_target" value="&quot;test_Lab009.test_vwo_error_check&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -144,21 +163,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_Lab010.test_vwo_start_free_trial&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab012_int.test_ebay_come" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4xLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_4_21102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab012_int.test_ebay_come&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -194,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab012_int.test_ebay_come" />
+        <item itemvalue="Python tests.Python tests for test_Lab009.test_vwo_error_check" />
+        <item itemvalue="Python tests.Python tests for src.ex_4_22102024.test_Lab012_int.test_ebay_come" />
         <item itemvalue="Python tests.Python tests in test_Lab011.py" />
         <item itemvalue="Python tests.Python tests for test_Lab010.test_vwo_start_free_trial" />
         <item itemvalue="Python tests.Python tests in test_Lab010.py" />
-        <item itemvalue="Python tests.Python tests for test_Lab010.test_vwo_error_check" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729561507762</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="few exercises of 22 aug with tasks">
+      <option name="closed" value="true" />
+      <created>1729733960040</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729733960040</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +279,7 @@
     <MESSAGE value="Exercises and Tasks of OCT 17, 2024 are added with few practices" />
     <MESSAGE value="Exercises and Tasks of OCT 19, 2024 are added with few practices" />
     <MESSAGE value="all files updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files updated" />
+    <MESSAGE value="few exercises of 22 aug with tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="few exercises of 22 aug with tasks" />
   </component>
 </project>
