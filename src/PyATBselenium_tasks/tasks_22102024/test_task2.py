@@ -42,6 +42,7 @@ def test_ebay_come(browser_options):
         try:
             prices.append(float(text_price))
             print(f"{text_items.text} : {i.text}")
+
         except ValueError as e:
             continue
 

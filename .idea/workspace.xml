@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="few exercises of 22 aug with tasks">
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab013_imp_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab014_expl_fluent_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab014_expl_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_24102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_24102024/test_awesome_qa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab014_simple_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab015_confirmation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/test_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/task_22102024/test_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_21102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_21102024/test_Lab012_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab012_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
     "Python tests.Python tests for test_Lab010.test_vwo_start_free_trial.executor": "Run",
     "Python tests.Python tests for test_Lab012_int.test_ebay_come.executor": "Run",
     "Python tests.Python tests for test_Lab02.test_app_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_awesome_qa.test_handling_alerts_accept.executor": "Run",
     "Python tests.Python tests for test_facebook_login.test_fb_login.executor": "Run",
     "Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.executor": "Run",
@@ -76,6 +76,7 @@
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
     "Python tests.Python tests in test_Lab010.py.executor": "Run",
     "Python tests.Python tests in test_Lab011.py.executor": "Run",
+    "Python tests.Python tests in test_awesome_qa.py.executor": "Debug",
     "Python tests.Python tests in test_facebook_login.py.executor": "Run",
     "Python tests.Python tests in test_katalon_cura.py.executor": "Run",
     "Python.task1.executor": "Run",
@@ -105,7 +106,7 @@
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab009.test_vwo_error_check">
+  <component name="RunManager" selected="Python tests.Python tests for test_awesome_qa.test_handling_alerts_accept">
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -166,19 +167,19 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab010.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_awesome_qa.test_handling_alerts_accept" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_3_19102024/test_Lab010.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_awesome_qa.test_handling_alerts_accept&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test_Lab011.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -198,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_awesome_qa.test_handling_alerts_accept" />
         <item itemvalue="Python tests.Python tests for test_Lab009.test_vwo_error_check" />
         <item itemvalue="Python tests.Python tests for src.ex_4_22102024.test_Lab012_int.test_ebay_come" />
         <item itemvalue="Python tests.Python tests in test_Lab011.py" />
         <item itemvalue="Python tests.Python tests for test_Lab010.test_vwo_start_free_trial" />
-        <item itemvalue="Python tests.Python tests in test_Lab010.py" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729733960040</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="few exercises of 22 aug with tasks">
+      <option name="closed" value="true" />
+      <created>1729819529875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729819529875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
