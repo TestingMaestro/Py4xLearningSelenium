@@ -4,15 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="few exercises of 22 aug with tasks">
-      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_24102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_24102024/test_awesome_qa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab014_simple_alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab015_confirmation.py" afterDir="false" />
+    <list default="true" id="82f93cd3-dd78-4aa9-bffd-f3890bbbbadc" name="Changes" comment="few exercises of 24 aug with tasks are added">
+      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_26102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_26102024/test_actions_copy_paste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_26102024/test_actions_drag_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_26102024/test_actions_spice_jet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_4_22102024/test_Lab013_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab016_dropdowns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab_selenium_Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab_selenium_SVG_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab_selenium_SVG_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_lab_stale_element_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_web_tables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_web_tables/test_1_static_web_tables_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_24102024_web_tables/test_dynamic_web_tables_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/test_Lab_Handling_window_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/test_Lab_win_iframe_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/test_lab_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/test_lab_Actions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/test_lab_Actions_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_26102024_Action_Chains/test_lab_actions_Make_my_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor/test_Lab_Js_executor_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor/test_Lab_Js_executor_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor/test_Lab_Js_executor_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor/test_Lab_Js_executor_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor/test_Lab_Selenium_Organize_Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selenium_practice/test_myntra_end_toend.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_22102024/test_task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab014_simple_alert.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab014_simple_alert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab015_confirmation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_5_24102024_alerts/test_Lab015_confirmation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -62,12 +86,39 @@
     "Python tests.Python tests for test_Lab010.test_vwo_error_check.executor": "Run",
     "Python tests.Python tests for test_Lab010.test_vwo_start_free_trial.executor": "Run",
     "Python tests.Python tests for test_Lab012_int.test_ebay_come.executor": "Run",
+    "Python tests.Python tests for test_Lab015_confirmation.test_handling_alerts_dismiss.executor": "Run",
+    "Python tests.Python tests for test_Lab016_dropdowns.test_handling_alerts_accept.executor": "Run",
+    "Python tests.Python tests for test_Lab016_dropdowns.test_handling_alerts_dropdowns.executor": "Run",
+    "Python tests.Python tests for test_Lab016_dropdowns.test_handling_dropdowns_multiple.executor": "Run",
     "Python tests.Python tests for test_Lab02.test_app_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab_Handling_window.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_Lab_Js_executor_P1.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_Lab_Js_executor_P2.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_Lab_Js_executor_P3.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_Lab_Js_executor_P4.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_Lab_Js_executor_P4.test_shadow_dom_.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Organize_Code.TestJsExecutor.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_Lab_selenium_Exceptions.test_handling_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_selenium_SVG_part1.test_handling_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_selenium_SVG_part2.test_handling_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_win_iframe_actions.test_complex_sc1.executor": "Run",
+    "Python tests.Python tests for test_actions_copy_paste.test_actions_copy_and_paste.executor": "Run",
+    "Python tests.Python tests for test_actions_drag_drop.test_actions_drag_and_drop.executor": "Run",
+    "Python tests.Python tests for test_actions_spice_jet.test_actions_drag_and_drop.executor": "Run",
     "Python tests.Python tests for test_awesome_qa.test_handling_alerts_accept.executor": "Run",
+    "Python tests.Python tests for test_dynamic_web_tables_2.test_web_tables_static_1.executor": "Run",
     "Python tests.Python tests for test_facebook_login.test_fb_login.executor": "Run",
     "Python tests.Python tests for test_katalon_cura.test_Katalon_cura_demo_login_tc_chrome.executor": "Run",
+    "Python tests.Python tests for test_lab_Actions_P1.test_actions_p1.executor": "Run",
+    "Python tests.Python tests for test_lab_Actions_P2.test_actions_p2.executor": "Run",
+    "Python tests.Python tests for test_lab_Actions_P3.test_actions_p2.executor": "Run",
+    "Python tests.Python tests for test_lab_actions_Make_my_trip.test_actions_make_my_trip.executor": "Run",
+    "Python tests.Python tests for test_lab_actions_Make_my_trip.test_actions_p3.executor": "Run",
+    "Python tests.Python tests for test_lab_stale_element_exception.test_handling_svg.executor": "Run",
+    "Python tests.Python tests for test_myntra_end_toend.test_myntra_website.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.executor": "Run",
     "Python tests.Python tests for test_task2.TestTestCase1.test_testCase1.executor": "Run",
+    "Python tests.Python tests for test_web_tables_1.test_web_tables_1.executor": "Run",
     "Python tests.Python tests in test_1_task1.py.executor": "Run",
     "Python tests.Python tests in test_Lab003.py.executor": "Run",
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
@@ -76,13 +127,23 @@
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
     "Python tests.Python tests in test_Lab010.py.executor": "Run",
     "Python tests.Python tests in test_Lab011.py.executor": "Run",
+    "Python tests.Python tests in test_Lab016_dropdowns.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_Js_executor_P1.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_selenium_SVG_part1.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_selenium_SVG_part2.py.executor": "Debug",
+    "Python tests.Python tests in test_Lab_win_iframe_actions.py.executor": "Run",
     "Python tests.Python tests in test_awesome_qa.py.executor": "Debug",
     "Python tests.Python tests in test_facebook_login.py.executor": "Run",
     "Python tests.Python tests in test_katalon_cura.py.executor": "Run",
+    "Python tests.Python tests in test_lab_Actions_P2.py.executor": "Run",
+    "Python tests.Python tests in test_lab_Actions_P3.py.executor": "Run",
+    "Python tests.Python tests in test_lab_actions_Make_my_trip.py.executor": "Debug",
+    "Python tests.Python tests in test_myntra_end_toend.py.executor": "Run",
+    "Python tests.Python tests in test_web_tables_1.py.executor": "Run",
     "Python.task1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/91914/PycharmProjects/Py4xLearningSelenium/src/ex_4_22102024",
+    "last_opened_file_path": "C:/Users/91914/PycharmProjects/Py4xLearningSelenium/src/ex_7_29102024_JS_Executor",
     "settings.editor.selected.configurable": "PyConsoleConfigurable.Python Console"
   }
 }]]></component>
@@ -96,17 +157,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_7_29102024_JS_Executor" />
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\PyATBselenium_tasks\tasks_26102024" />
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_6_26102024_Action_Chains" />
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_5_24102024_alerts" />
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_4_22102024" />
-      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\PyATBselenium_tasks\task_21102024" />
-      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_3_19102024" />
-      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\ex_2_17102024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\PyATBselenium_tasks" />
       <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src" />
+      <recent name="C:\Users\91914\PycharmProjects\Py4xLearningSelenium\src\PyATBselenium_tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_awesome_qa.test_handling_alerts_accept">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Js_executor_P4.test_shadow_dom_">
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -122,88 +184,88 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_4_22102024.test_Lab012_int.test_ebay_come" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Js_executor_P2.test_actions_p3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_4_22102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_4_22102024.test_Lab012_int.test_ebay_come&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Js_executor_P2.test_actions_p3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab009.test_vwo_error_check" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Js_executor_P3.test_actions_p3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab009.test_vwo_error_check&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Js_executor_P3.test_actions_p3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab010.test_vwo_start_free_trial" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Js_executor_P4.test_actions_p3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab010.test_vwo_start_free_trial&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Js_executor_P4.test_actions_p3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_awesome_qa.test_handling_alerts_accept" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Js_executor_P4.test_shadow_dom_" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/PyATBselenium_tasks/tasks_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_awesome_qa.test_handling_alerts_accept&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Js_executor_P4.test_shadow_dom_&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab011.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Organize_Code.TestJsExecutor.test_actions_p3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_29102024_JS_Executor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_3_19102024/test_Lab011.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Organize_Code.TestJsExecutor.test_actions_p3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_awesome_qa.test_handling_alerts_accept" />
-        <item itemvalue="Python tests.Python tests for test_Lab009.test_vwo_error_check" />
-        <item itemvalue="Python tests.Python tests for src.ex_4_22102024.test_Lab012_int.test_ebay_come" />
-        <item itemvalue="Python tests.Python tests in test_Lab011.py" />
-        <item itemvalue="Python tests.Python tests for test_Lab010.test_vwo_start_free_trial" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Js_executor_P4.test_shadow_dom_" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Js_executor_P4.test_actions_p3" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Organize_Code.TestJsExecutor.test_actions_p3" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Js_executor_P3.test_actions_p3" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Js_executor_P2.test_actions_p3" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729819529875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="few exercises of 24 aug with tasks are added">
+      <option name="closed" value="true" />
+      <created>1729902578532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729902578532</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -289,6 +359,7 @@
     <MESSAGE value="Exercises and Tasks of OCT 19, 2024 are added with few practices" />
     <MESSAGE value="all files updated" />
     <MESSAGE value="few exercises of 22 aug with tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="few exercises of 22 aug with tasks" />
+    <MESSAGE value="few exercises of 24 aug with tasks are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="few exercises of 24 aug with tasks are added" />
   </component>
 </project>

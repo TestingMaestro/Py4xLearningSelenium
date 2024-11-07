@@ -3,7 +3,7 @@ import pytest
 from selenium import webdriver
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture
 def browser_options():
     options = Options()
     # options.add_argument("--headless")
@@ -12,11 +12,11 @@ def browser_options():
     options.add_argument("--no-sandbox")
     # options.add_argument("--window-size=900,600")  # window size customization
     # options.add_argument("--disable-infobars")
-    return options
+    return browser_options
 
 
-@pytest.fixture(scope="session")
-def launch_chrome():
+@pytest.fixture
+def driver():
     driver = webdriver.Chrome()
-    driver.get("https://app.vwo.com/#/login")
+
     return driver

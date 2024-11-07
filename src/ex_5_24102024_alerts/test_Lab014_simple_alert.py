@@ -11,22 +11,32 @@ import allure
 
 @allure.title("Verify alerts for accept")
 @allure.description("Handling Alerts accept")
-def test_handling_alerts_accept(browser_options):
+def test_alerts_conf_prompt(browser_options):
     driver = webdriver.Chrome(browser_options)
     driver.get("https://the-internet.herokuapp.com/javascript_alerts")
 
     alert_ele = driver.find_element(By.XPATH, "//button[text()='Click for JS Alert']")
+    alert_ele = driver.find_element(By.XPATH, "//button[text()='Click for JS Confirm']")
+    alert_ele = driver.find_element(By.XPATH, "//button[text()='Click for JS Prompt']")
     alert_ele.click()
 
     WebDriverWait(driver=driver, timeout=10).until(EC.alert_is_present())
     alert = driver.switch_to.alert
     time.sleep(6)
+    # Alert
     alert.accept()
+
+    # confirmation
+
+    alert.accept()
+    alert.dismiss()
+
+    # prompt
+    alert.send_keys("Test alert")
+    alert.accept()
+    alert.dismiss()
 
     result_text = driver.find_element(By.ID, "result")
     text_of = result_text.text
 
     assert text_of == "You clicked: Ok"
-
-
-
